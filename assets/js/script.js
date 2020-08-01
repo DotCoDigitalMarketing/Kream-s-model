@@ -1,4 +1,3 @@
-
 function bookTable() {
   
   let name = document.getElementById("name").value;
