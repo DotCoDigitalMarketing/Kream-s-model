@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #cda45e;
+  color: #f16420;
 }
 
 .nav-menu .drop-down > a:after {
@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #cda45e;
+  color: #f16420;
   text-decoration: none;
 }
 
@@ -409,7 +409,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav .book-a-table a {
   color: #fff;
-  border: 2px solid #cda45e;
+  border: 2px solid #f16420;
   border-radius: 50px;
   margin: 20px 0 0 0;
   padding: 10px 25px;
@@ -422,7 +422,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .book-a-table a:hover {
-  background: #cda45e;
+  background: #f16420;
   color: #fff;
 }
 
@@ -806,8 +806,8 @@ section {
   height: 60px;
   z-index: 1;
   content: '';
-  border-left: 5px solid #cda45e;
-  border-top: 5px solid #cda45e;
+  border-left: 5px solid #f16420;
+  border-top: 5px solid #f16420;
   transition: .5s;
 }
 
@@ -819,8 +819,8 @@ section {
   height: 60px;
   z-index: 2;
   content: '';
-  border-right: 5px solid #cda45e;
-  border-bottom: 5px solid #cda45e;
+  border-right: 5px solid #f16420;
+  border-bottom: 5px solid #f16420;
   transition: .5s;
 }
 
@@ -855,7 +855,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cda45e;
+  color: #f16420;
 }
 
 .about .content p:last-child {
@@ -936,7 +936,7 @@ section {
 }
 
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
-  color: #cda45e;
+  color: #f16420;
 }
 
 .menu #menu-flters li:last-child {
@@ -986,7 +986,7 @@ section {
 }
 
 .menu .menu-content a:hover {
-  color: #cda45e;
+  color: #f16420;
 }
 
 .menu .menu-content span {
@@ -995,7 +995,7 @@ section {
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
-  color: #cda45e;
+  color: #f16420;
 }
 
 .menu .menu-ingredients {
@@ -1114,7 +1114,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #cda45e;
+  color: #f16420;
 }
 
 .events .event-item .price {
@@ -1125,7 +1125,7 @@ section {
 }
 
 .events .event-item .price span {
-  border-bottom: 2px solid #cda45e;
+  border-bottom: 2px solid #f16420;
 }
 
 .events .event-item ul {
@@ -1140,7 +1140,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cda45e;
+  color: #f16420;
 }
 
 .events .event-item p:last-child {
@@ -1162,7 +1162,7 @@ section {
 }
 
 .events .owl-dot.active {
-  background-color: #cda45e !important;
+  background-color: #f16420 !important;
 }
 
 @media (min-width: 992px) {
@@ -1225,7 +1225,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #cda45e;
+  border: 3px solid #f16420;
   border-top-color: #1a1814;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1359,7 +1359,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #cda45e !important;
+  background-color: #f16420 !important;
 }
 
 @media (max-width: 767px) {
@@ -1446,7 +1446,7 @@ section {
 }
 
 .chefs .member .social a:hover {
-  color: #cda45e;
+  color: #f16420;
 }
 
 .chefs .member .social i {
