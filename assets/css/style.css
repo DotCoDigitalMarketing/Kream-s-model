@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 300;
   letter-spacing: 1px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Pattaya', sans-serif;
 }
 
 #header .logo a {
@@ -503,7 +503,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
-  font-family: 'Lobster', cursive;
+  font-family: 'Pattaya', sans-serif;
 }
 
 #hero h1 span {
@@ -711,7 +711,7 @@ section {
   margin: 0;
   font-size: 36px;
   font-weight: 700;
-  font-family: 'Lobster', cursive;
+  font-family: 'Pattaya', sans-serif;
   color: #f16420;
 }
 
@@ -1661,8 +1661,8 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 300;
-  text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  color: #f16420;
+  font-family: 'Pattaya', sans-serif;
 }
 
 #footer .footer-top .footer-info p {
