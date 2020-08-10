@@ -14,7 +14,7 @@ function bookTable() {
   else{
     var message = `Name: ${name}\nContact: ${phone_number}\nEmail: ${email}\nDate: ${date}\nTime: ${time}\nMessage: ${comment}`;
     message = encodeURI(message);
-    var query = `https://wa.me/917034700133?text=${message}`;
+    var query = `https://wa.me/97335140240?text=${message}`;
     window.location.replace(query);
   }
 }
