@@ -1,6 +1,26 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   background: #0c0b09;
@@ -184,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #f16420;
+  color: #fff;
 }
 
 #header .logo img {
@@ -471,7 +491,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -1316,7 +1336,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #ff7938;
+  color: #d3af71;
   font-size: 26px;
 }
 
@@ -1604,7 +1624,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #ff7938;
+  background: #f16420;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1613,7 +1633,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ff7938;
+  background: #d3af71;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1661,7 +1681,6 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 300;
-  color: #f16420;
   font-family: 'Pattaya', sans-serif;
 }
 
@@ -1773,7 +1792,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #ff7938;
+  background: #d3af71;
 }
 
 #footer .copyright {
